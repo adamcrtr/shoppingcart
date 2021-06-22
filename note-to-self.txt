@@ -1,0 +1,19 @@
+css folder
+
+config
+
+login
+
+logout
+
+register
+
+requestdeletion
+
+
+https://www.pexels.com/photo/grey-and-yellow-salt-fish-60090/
+
+
+https://www.pexels.com/photo/whale-s-tail-892548/
+
+https://pixabay.com/photos/bonito-fish-taxidermy-fish-mount-1617338/
